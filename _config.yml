@@ -1,0 +1,4 @@
+name: My first test Jekyll / github pages Site
+markdown: redcarpet
+pygments: true
+baseurl: /teststatic
